@@ -2,6 +2,4 @@
 
 My name is David Lee and I am currently an undergraduate study enrolled in CUNY Queens College, majoring in Computer Science.
 
-Just created a GitHub
-
-Will post some past coding I have done here
+I just created a GitHub and I hope to be posting any school projects, homework, or even personal projects that I am passionate about here.
